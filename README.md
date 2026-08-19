@@ -1,2 +1,6 @@
 # e-ticketing-online-railway-reservation-systems
-The system is a web-based railway reservation application connected to a database. The database stores user details, train information, stations, routes, schedules, seat availability, fares, passengers, and booking records.
+This project is created for academic demonstration purpose only 
+Software Configuration Management using GitHub.
+Student Name: Anjali
+Roll Number: 25B81A6606
+Class: CSE(AIML)-A
